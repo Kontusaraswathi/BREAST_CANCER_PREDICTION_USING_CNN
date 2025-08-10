@@ -12,7 +12,7 @@ This project aims to **automate breast ultrasound image classification** into:
 ---
 
 Dataset
-- **Name**: [Breast Ultrasound Images Dataset (BUSI)](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
+- **Name**: [Breast Ultrasound Images Dataset (BUSI)][(https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 - **Number of Classes**: 3  
   - `benign/` – Images of benign tumors
   - `malignant/` – Images of malignant tumors
