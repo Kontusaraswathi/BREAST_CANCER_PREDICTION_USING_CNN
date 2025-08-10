@@ -67,5 +67,5 @@ Dataset
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/Kontusaraswathi/Breast_cancer_prediction_using_ML/tree/main
+git clone https://github.com/Kontusaraswathi/BREAST_CANCER_PREDICTION_USING_CNN/tree/main
 cd Breast_cancer_prediction_using_ML
